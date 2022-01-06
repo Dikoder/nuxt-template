@@ -6,7 +6,7 @@
         Welcome To Torsaa
       </h1>
       <h2 class='text-center'>
-        Where Ghanains Shop for Home.
+        Where Ghanain's Shop for Home.
       </h2>
       
     </div>
