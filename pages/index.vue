@@ -3,10 +3,10 @@
     <div class='mt-20'>
       <Logo style='width:120px;margin:auto' />
       <h1 class='text-center text-3xl mt-10'>
-        NuxtJS KickStart Template
+        Welcome To Torsaa
       </h1>
       <h2 class='text-center'>
-        Create simple, beautiful, and elegant website.
+        Where Ghanains Shop for Home.
       </h2>
       
     </div>
